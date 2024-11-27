@@ -1,13 +1,13 @@
 //
 //  AppDelegate.swift
-//  ios-bitcoin-pricer
+//  ByteCoin
 //
-//  Created by Hridayan Phukan on 26/11/24.
-//
+//  Created by Hridayan Phukan
+
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
